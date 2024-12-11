@@ -1,4 +1,4 @@
-# JavaScript Learning Curve
+
 
 Welcome to my JavaScript learning repository! This repository contains a collection of basic JavaScript programs that I have written while learning and practicing JavaScript.
 

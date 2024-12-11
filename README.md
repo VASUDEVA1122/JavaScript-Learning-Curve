@@ -48,4 +48,9 @@ Thank you for checking out my JavaScript learning journey! 🚀
 
 Thank you Harkirat {hkirat} for your guidance.
 
+## Repository Link
+You can access the full repository here: [JavaScript Learning Curve Repository](https://github.com/VASUDEVA1122/JavaScript-Learning-Curve)
+
+
+
 
